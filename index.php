@@ -3,7 +3,7 @@
     <head>
     </head>
     <body>
-        probando git
+        Probando GitHub
         <button type="button">Boton</button>
     </body>
 </html>
